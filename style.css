@@ -1,0 +1,17 @@
+body {
+    
+    background: linear-gradient(to left, rgb(51, 16, 25), rgb(255, 218, 6));
+
+}
+
+.signupHeadingDiv {
+                    text-align: center;
+}
+.signupForm {
+    text-align: center;
+    color: rgb(0, 60, 255) ;
+
+}
+.input {
+    padding-right: 5px;
+}
